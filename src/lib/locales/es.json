@@ -1,0 +1,182 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "store": "Tienda",
+    "contact": "Contacto"
+  },
+  "header": {
+    "cta": "Contacte a un Experto"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "tagline": "Su socio estratégico en tecnología."
+  },
+  "home": {
+    "hero": {
+      "title": "Soluciones Tecnológicas para Potenciar su Negocio.",
+      "subtitle": "Su Socio Estratégico en Infraestructura, Ciberseguridad y Soporte TI."
+    },
+    "services": {
+      "title": "Nuestras Soluciones",
+      "subtitle": "Ofrecemos un portafolio completo de servicios para llevar su infraestructura tecnológica al siguiente nivel.",
+      "consulting": {
+        "title": "Consultoría e Infraestructura TI",
+        "description": "Diseñamos y desplegamos infraestructuras robustas y escalables para su empresa."
+      },
+      "equipment": {
+        "title": "Venta de Equipamiento Corporativo",
+        "description": "Proveemos servidores, switches y firewalls de marcas líderes como Dell y Fortinet."
+      },
+      "security": {
+        "title": "Ciberseguridad Avanzada",
+        "description": "Protegemos sus activos digitales con soluciones de seguridad de última generación."
+      },
+      "support": {
+        "title": "Soporte y Servicios Gestionados",
+        "description": "Garantizamos la continuidad de su negocio con soporte proactivo y gestión TI."
+      }
+    },
+    "whyChooseUs": {
+      "title": "¿Por Qué Elegir XMPC Technologies?",
+      "description": "Nos dedicamos a ser más que un proveedor; somos su socio tecnológico. Nuestra misión es impulsar su éxito a través de la innovación, la fiabilidad y un servicio excepcional.",
+      "points": {
+        "p1": "Enfoque Estratégico B2B",
+        "p2": "Alianzas con Líderes de la Industria",
+        "p3": "Equipo de Expertos Certificados",
+        "p4": "Soluciones a la Medida"
+      }
+    },
+    "clients": {
+      "title": "Conozca algunos de nuestros clientes"
+    },
+    "partners": {
+      "title": "Marcas con las que trabajamos"
+    },
+    "cta": {
+      "title": "¿Listo para transformar su negocio?",
+      "subtitle": "Hablemos de cómo nuestras soluciones pueden ayudarle a alcanzar sus objetivos.",
+      "button": "Solicitar una Consulta Gratuita"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Descubra cómo nuestras soluciones especializadas pueden transformar su infraestructura tecnológica, fortalecer su seguridad y optimizar sus operaciones.",
+    "consulting": {
+      "title": "Consultoría e Infraestructura TI",
+      "description": "Analizamos sus necesidades y diseñamos una arquitectura tecnológica a medida. Nos especializamos en la implementación de centros de datos, virtualización, y soluciones en la nube híbrida para garantizar el máximo rendimiento y escalabilidad.",
+      "points": {
+        "p1": "Diseño de Centros de Datos",
+        "p2": "Soluciones de Virtualización (VMware, Hyper-V)",
+        "p3": "Migración y Gestión Cloud (AWS, Azure)",
+        "p4": "Redes y Conectividad Avanzada"
+      }
+    },
+    "equipment": {
+      "title": "Venta de Equipamiento Corporativo",
+      "description": "Somos socios estratégicos de marcas líderes como Dell, HP, Cisco y Fortinet. Ofrecemos precios competitivos y asesoramiento experto en la adquisición de servidores, almacenamiento, equipo de red y soluciones de seguridad.",
+      "points": {
+        "p1": "Servidores Tower, Rack y Blade",
+        "p2": "Sistemas de Almacenamiento (SAN, NAS)",
+        "p3": "Switches, Routers y Puntos de Acceso",
+        "p4": "Firewalls de Nueva Generación (NGFW)"
+      }
+    },
+    "security": {
+      "title": "Ciberseguridad Avanzada",
+      "description": "Proteja sus activos más valiosos con un enfoque de seguridad en capas. Implementamos soluciones robustas para la detección de amenazas, prevención de intrusiones y respuesta a incidentes, asegurando la integridad y confidencialidad de su información.",
+      "points": {
+        "p1": "Análisis de Vulnerabilidades",
+        "p2": "Sistemas de Detección y Prevención de Intrusiones (IDS/IPS)",
+        "p3": "Seguridad de Endpoints y Antivirus Gestionado",
+        "p4": "Planes de Recuperación ante Desastres (DRP)"
+      }
+    },
+    "support": {
+      "title": "Soporte y Servicios Gestionados",
+      "description": "Delegue la gestión de su TI en nuestro equipo de expertos. Ofrecemos monitoreo 24/7, soporte técnico proactivo y mantenimiento preventivo para garantizar la continuidad operativa de su negocio y permitir que su equipo se enfoque en sus objetivos estratégicos.",
+      "points": {
+        "p1": "Monitoreo Proactivo de Infraestructura",
+        "p2": "Soporte Remoto y On-site",
+        "p3": "Gestión de Parches y Actualizaciones",
+        "p4": "Acuerdos de Nivel de Servicio (SLA) Personalizados"
+      }
+    }
+  },
+  "store": {
+    "title": "Tienda Corporativa",
+    "subtitle": "Equipamiento tecnológico de alto rendimiento para fortalecer su infraestructura empresarial.",
+    "addToCart": "Añadir al Carrito",
+    "products": {
+      "dellServer": {
+        "name": "Servidor Dell PowerEdge R740",
+        "description": "Servidor en rack 2U altamente versátil, ideal para virtualización y cargas de trabajo exigentes.",
+        "category": "Servidores"
+      },
+      "ciscoSwitch": {
+        "name": "Switch Cisco Catalyst 9300",
+        "description": "Switch de acceso empresarial apilable líder en la industria para seguridad, IoT y nube.",
+        "category": "Redes"
+      },
+      "fortinetFirewall": {
+        "name": "Fortinet FortiGate 100F",
+        "description": "Firewall de nueva generación (NGFW) con SD-WAN segura para medianas y grandes empresas.",
+        "category": "Seguridad"
+      },
+      "hpeStorage": {
+        "name": "Almacenamiento HPE MSA 2060",
+        "description": "Sistema de almacenamiento SAN híbrido asequible para aceleración de aplicaciones.",
+        "category": "Almacenamiento"
+      },
+      "hpServer": {
+        "name": "Servidor HP ProLiant DL380 Gen10",
+        "description": "Servidor 2U seguro y adaptable para diversas cargas de trabajo y entornos.",
+        "category": "Servidores"
+      },
+      "ciscoRouter": {
+        "name": "Router Cisco ISR 4331",
+        "description": "Router de servicios integrados que ofrece servicios de red y seguridad avanzados.",
+        "category": "Redes"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Estamos listos para ayudarle. Póngase en contacto con nuestro equipo de expertos para una consulta gratuita.",
+    "form": {
+      "title": "Envíenos un Mensaje",
+      "subtitle": "Complete el formulario y nos pondremos en contacto a la brevedad.",
+      "labels": {
+        "name": "Nombre Completo",
+        "company": "Empresa",
+        "email": "Email Corporativo",
+        "phone": "Teléfono (Opcional)",
+        "message": "¿Cómo podemos ayudarle?"
+      },
+      "placeholders": {
+        "message": "Describa su proyecto o necesidad..."
+      },
+      "submitButton": "Enviar Mensaje",
+      "validation": {
+        "name": "El nombre debe tener al menos 2 caracteres.",
+        "company": "El nombre de la empresa debe tener al menos 2 caracteres.",
+        "email": "Por favor ingrese un email válido.",
+        "message": "El mensaje debe tener al menos 10 caracteres."
+      },
+      "toast": {
+        "success": {
+          "title": "Mensaje Enviado",
+          "description": "Gracias por contactarnos. Nos pondremos en contacto con usted pronto."
+        },
+        "error": {
+          "title": "Error al enviar",
+          "description": "Ocurrió un error. Por favor, intente de nuevo."
+        }
+      }
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "subtitle": "Puede encontrarnos aquí:"
+    }
+  }
+}

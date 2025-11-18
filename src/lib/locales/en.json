@@ -1,0 +1,182 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "store": "Store",
+    "contact": "Contact"
+  },
+  "header": {
+    "cta": "Contact an Expert"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Your strategic partner in technology."
+  },
+  "home": {
+    "hero": {
+      "title": "Technological Solutions to Empower Your Business.",
+      "subtitle": "Your Strategic Partner in Infrastructure, Cybersecurity, and IT Support."
+    },
+    "services": {
+      "title": "Our Solutions",
+      "subtitle": "We offer a complete portfolio of services to take your technological infrastructure to the next level.",
+      "consulting": {
+        "title": "IT Consulting and Infrastructure",
+        "description": "We design and deploy robust and scalable infrastructures for your company."
+      },
+      "equipment": {
+        "title": "Corporate Equipment Sales",
+        "description": "We provide servers, switches, and firewalls from leading brands like Dell and Fortinet."
+      },
+      "security": {
+        "title": "Advanced Cybersecurity",
+        "description": "We protect your digital assets with state-of-the-art security solutions."
+      },
+      "support": {
+        "title": "Support and Managed Services",
+        "description": "We guarantee business continuity with proactive support and IT management."
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why Choose XMPC Technologies?",
+      "description": "We are dedicated to being more than a provider; we are your technology partner. Our mission is to drive your success through innovation, reliability, and exceptional service.",
+      "points": {
+        "p1": "Strategic B2B Focus",
+        "p2": "Alliances with Industry Leaders",
+        "p3": "Certified Expert Team",
+        "p4": "Tailor-Made Solutions"
+      }
+    },
+    "clients": {
+      "title": "Meet Some of Our Clients"
+    },
+    "partners": {
+      "title": "Brands We Work With"
+    },
+    "cta": {
+      "title": "Ready to transform your business?",
+      "subtitle": "Let's talk about how our solutions can help you achieve your goals.",
+      "button": "Request a Free Consultation"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Discover how our specialized solutions can transform your technological infrastructure, strengthen your security, and optimize your operations.",
+    "consulting": {
+      "title": "IT Consulting and Infrastructure",
+      "description": "We analyze your needs and design a custom technology architecture. We specialize in data center implementation, virtualization, and hybrid cloud solutions to ensure maximum performance and scalability.",
+      "points": {
+        "p1": "Data Center Design",
+        "p2": "Virtualization Solutions (VMware, Hyper-V)",
+        "p3": "Cloud Migration and Management (AWS, Azure)",
+        "p4": "Advanced Networking and Connectivity"
+      }
+    },
+    "equipment": {
+      "title": "Corporate Equipment Sales",
+      "description": "We are strategic partners with leading brands like Dell, HP, Cisco, and Fortinet. We offer competitive prices and expert advice on acquiring servers, storage, network equipment, and security solutions.",
+      "points": {
+        "p1": "Tower, Rack, and Blade Servers",
+        "p2": "Storage Systems (SAN, NAS)",
+        "p3": "Switches, Routers, and Access Points",
+        "p4": "Next-Generation Firewalls (NGFW)"
+      }
+    },
+    "security": {
+      "title": "Advanced Cybersecurity",
+      "description": "Protect your most valuable assets with a layered security approach. We implement robust solutions for threat detection, intrusion prevention, and incident response, ensuring the integrity and confidentiality of your information.",
+      "points": {
+        "p1": "Vulnerability Analysis",
+        "p2": "Intrusion Detection and Prevention Systems (IDS/IPS)",
+        "p3": "Endpoint Security and Managed Antivirus",
+        "p4": "Disaster Recovery Plans (DRP)"
+      }
+    },
+    "support": {
+      "title": "Support and Managed Services",
+      "description": "Delegate your IT management to our team of experts. We offer 24/7 monitoring, proactive technical support, and preventive maintenance to ensure the operational continuity of your business and allow your team to focus on strategic goals.",
+      "points": {
+        "p1": "Proactive Infrastructure Monitoring",
+        "p2": "Remote and On-site Support",
+        "p3": "Patch and Update Management",
+        "p4": "Customized Service Level Agreements (SLA)"
+      }
+    }
+  },
+  "store": {
+    "title": "Corporate Store",
+    "subtitle": "High-performance technological equipment to strengthen your business infrastructure.",
+    "addToCart": "Add to Cart",
+    "products": {
+      "dellServer": {
+        "name": "Dell PowerEdge R740 Server",
+        "description": "Highly versatile 2U rack server, ideal for virtualization and demanding workloads.",
+        "category": "Servers"
+      },
+      "ciscoSwitch": {
+        "name": "Cisco Catalyst 9300 Switch",
+        "description": "Industry-leading stackable enterprise access switch for security, IoT, and cloud.",
+        "category": "Networking"
+      },
+      "fortinetFirewall": {
+        "name": "Fortinet FortiGate 100F",
+        "description": "Next-generation firewall (NGFW) with secure SD-WAN for medium and large enterprises.",
+        "category": "Security"
+      },
+      "hpeStorage": {
+        "name": "HPE MSA 2060 Storage",
+        "description": "Affordable hybrid SAN storage system for application acceleration.",
+        "category": "Storage"
+      },
+      "hpServer": {
+        "name": "HP ProLiant DL380 Gen10 Server",
+        "description": "Secure and adaptable 2U server for various workloads and environments.",
+        "category": "Servers"
+      },
+      "ciscoRouter": {
+        "name": "Cisco ISR 4331 Router",
+        "description": "Integrated services router that offers advanced networking and security services.",
+        "category": "Networking"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We are ready to help you. Get in touch with our team of experts for a free consultation.",
+    "form": {
+      "title": "Send us a Message",
+      "subtitle": "Complete the form and we will contact you shortly.",
+      "labels": {
+        "name": "Full Name",
+        "company": "Company",
+        "email": "Corporate Email",
+        "phone": "Phone (Optional)",
+        "message": "How can we help you?"
+      },
+      "placeholders": {
+        "message": "Describe your project or need..."
+      },
+      "submitButton": "Send Message",
+      "validation": {
+        "name": "Name must be at least 2 characters.",
+        "company": "Company name must be at least 2 characters.",
+        "email": "Please enter a valid email.",
+        "message": "Message must be at least 10 characters."
+      },
+      "toast": {
+        "success": {
+          "title": "Message Sent",
+          "description": "Thank you for contacting us. We will get back to you soon."
+        },
+        "error": {
+          "title": "Error sending",
+          "description": "An error occurred. Please try again."
+        }
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "subtitle": "You can find us here:"
+    }
+  }
+}
