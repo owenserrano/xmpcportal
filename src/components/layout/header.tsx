@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Menu, Globe } from "lucide-react";
+import { Menu, Globe, Instagram, Facebook } from "lucide-react";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
@@ -27,7 +27,7 @@ export function Header() {
       <div className="container flex h-16 items-center">
         <div className="mr-4 flex">
           <Link href="/" className="mr-6 flex items-center space-x-2">
-            <Logo />
+            <Logo className="w-auto h-10" />
           </Link>
         </div>
         <nav className="hidden items-center space-x-6 text-sm font-medium md:flex">
@@ -42,6 +42,22 @@ export function Header() {
           ))}
         </nav>
         <div className="flex flex-1 items-center justify-end space-x-2">
+          <div className="hidden md:flex items-center space-x-2">
+            <span className="text-sm font-medium">{t('header.followUs')}</span>
+            <Button asChild variant="ghost" size="icon">
+              <Link href="https://www.facebook.com/xmpc.computacion" target="_blank" rel="noopener noreferrer">
+                <Facebook className="h-5 w-5" />
+                <span className="sr-only">Facebook</span>
+              </Link>
+            </Button>
+            <Button asChild variant="ghost" size="icon">
+              <Link href="https://www.instagram.com/xmpc08/" target="_blank" rel="noopener noreferrer">
+                <Instagram className="h-5 w-5" />
+                <span className="sr-only">Instagram</span>
+              </Link>
+            </Button>
+          </div>
+          
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
               <Button variant="ghost" size="icon">
@@ -80,7 +96,6 @@ export function Header() {
                 onClick={() => setIsOpen(false)}
               >
                 <Logo />
-                <span className="font-bold">XMPC Technologies</span>
               </Link>
               <div className="my-4 h-px w-full bg-border" />
               <div className="flex flex-col space-y-4">

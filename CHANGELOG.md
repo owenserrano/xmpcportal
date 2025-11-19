@@ -7,23 +7,23 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ## [Unreleased]
 
-## [1.0.5] - 2025-11-21
+## [1.0.5] - 2025-11-19
 
-### Changed
-- Se ajustó el tamaño y la presentación del logo en la cabecera para un aspecto más limpio y profesional.
+### Added
+- Se agregó un botón flotante de WhatsApp en todo el sitio para facilitar el contacto directo.
 
 ### Fixed
-- Se corrigió un error de sintaxis en la página de la tienda (`/store`) que impedía la correcta visualización de los productos.
+- Se corrigió un error de hidratación en el botón de WhatsApp para evitar conflictos de renderizado entre el servidor y el cliente.
 
-## [1.0.4] - 2025-11-20
+## [1.0.4] - 2025-11-19
 
-### Changed
-- Se actualizaron las imágenes en la página de "Servicios" para que fueran más profesionales y representativas de cada categoría.
+### Added
+- Se añadieron enlaces a redes sociales (Facebook e Instagram) en el encabezado.
 
 ## [1.0.3] - 2025-11-19
 
-### Added
-- Sección de "Marcas con las que trabajamos" en la página de inicio para mostrar los logotipos de los socios tecnológicos.
+### Changed
+- Se realizaron ajustes y revisiones generales de código.
 
 ## [1.0.2] - 2025-11-18
 
@@ -33,6 +33,12 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ### Changed
 - Se simplificó la sección de clientes, reemplazando el carrusel dinámico por una cuadrícula estática para mejorar la fiabilidad y la visualización.
+- Se ajustó el tamaño y la presentación del logo de la empresa.
+- Se actualizaron los datos de contacto (email, teléfono, dirección).
+- Se reemplazaron las imágenes de marcador de posición en la tienda por imágenes de productos reales.
+
+### Fixed
+- Se corrigió un error de sintaxis en la página de la tienda que impedía la compilación.
 
 ## [1.0.1] - 2025-11-17
 

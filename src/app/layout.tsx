@@ -4,6 +4,7 @@ import { Header } from '@/components/layout/header';
 import { Footer } from '@/components/layout/footer';
 import { Toaster } from '@/components/ui/toaster';
 import { LanguageProvider } from '@/contexts/language-context';
+import { WhatsAppButton } from '@/components/whatsapp-button';
 
 export const metadata: Metadata = {
   title: 'XMPC Technologies - Soluciones Tecnológicas para Empresas',
@@ -30,6 +31,7 @@ export default function RootLayout({
             <Footer />
           </div>
           <Toaster />
+          <WhatsAppButton />
         </LanguageProvider>
       </body>
     </html>
